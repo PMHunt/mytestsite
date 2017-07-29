@@ -1,0 +1,12 @@
+1500552975291	geckodriver	INFO	geckodriver 0.18.0
+1500552975294	geckodriver	INFO	Listening on 127.0.0.1:48795
+1500552976494	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1500552978032	Marionette	INFO	Listening on port 44567
+1500552978121	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1500560472484	Marionette	INFO	Ceased listening
